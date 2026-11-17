@@ -89,6 +89,7 @@ hugoblox:
     style: navbar # navbar | navbar-simple | minimal
     # Stick to top on scroll
     sticky: true
+        show_title: false
     # Menu alignment
     align: center # left | center | right
     # Feature toggles
