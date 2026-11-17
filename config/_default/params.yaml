@@ -13,14 +13,14 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-        name: "Minkyo Seo (서민교)"    # Legal entity for copyright notices (defaults to name if not set)
+    name: "Minkyo Seo (서민교)"
     # Legal entity for copyright notices (defaults to name if not set)
         # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-        tagline: "Assistant Professor | Orbital Propulsion Laboratory | Kyungil University"
+    tagline: "Assistant Professor | Orbital Propulsion Laboratory | Kyungil University"
     # Site meta description for search engines and social sharing
-        description: "Orbital Propulsion Laboratory (OPL / 궤도추진연구실) at Kyungil University, Korea. Research in liquid rocket propulsion, satellite propulsion systems, and hypergolic propellants."
+    description: "Orbital Propulsion Laboratory (OPL / 궤도추진연구실) at Kyungil University, Korea. Research in liquid rocket propulsion, satellite propulsion systems, and hypergolic propellants."
       # Social accounts (used for meta tags like Twitter Cards)
     social:
             twitter: "" # Twitter/X handle for Twitter Cards (without @)
