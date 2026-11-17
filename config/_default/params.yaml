@@ -13,10 +13,10 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Minkyo Seo (서민교)"
+    name: "OPL (Orbital Propulsion Lab.)"
     # Legal entity for copyright notices (defaults to name if not set)
         # Schema.org type for structured data
-    type: person # person | organization | local_business
+    type: organization # person | organization | local_business
     # Short tagline displayed on your site
     tagline: "Assistant Professor | Orbital Propulsion Laboratory | Kyungil University"
     # Site meta description for search engines and social sharing
