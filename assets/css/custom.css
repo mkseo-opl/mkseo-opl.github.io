@@ -16,3 +16,8 @@ body {
 :lang(ko), [lang="ko"] {
   font-family: 'Noto Sans KR', 'IBM Plex Sans', sans-serif;
 }
+
+/* 네비바: 로고 이미지만 표시, 사이트명 텍스트 숨김 */
+.navbar-brand span {
+  display: none !important;
+}
