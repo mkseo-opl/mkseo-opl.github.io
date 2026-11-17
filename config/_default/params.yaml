@@ -59,7 +59,13 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "modern"
+    # Override individual font families (Google Fonts loaded automatically)
+    families:
+      heading: "IBM Plex Sans"
+      body: "IBM Plex Sans"
+      nav: "IBM Plex Sans"
+      code: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
