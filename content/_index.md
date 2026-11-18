@@ -24,8 +24,6 @@ sections:
     content:
       title: Contact
       text: |
-        ## 연락처 / Contact
-
         **Orbital Propulsion Laboratory (OPL)**  
         궤도추진연구실
 
