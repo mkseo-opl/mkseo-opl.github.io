@@ -1,4 +1,32 @@
 /* Google Fonts: IBM Plex Sans (English) + Noto Sans KR (Korean) */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+
+/* Override HugoBlox font CSS variables */
+:root {
+  --hb-font-family-sans: 'IBM Plex Sans', 'Noto Sans KR', ui-sans-serif, system-ui, sans-serif;
+  --hb-font-heading: 'IBM Plex Sans', 'Noto Sans KR', ui-sans-serif, system-ui, sans-serif;
+  --hb-font-body: 'IBM Plex Sans', 'Noto Sans KR', ui-sans-serif, system-ui, sans-serif;
+  --hb-font-nav: 'IBM Plex Sans', 'Noto Sans KR', ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-family: 'IBM Plex Sans', 'Noto Sans KR', sans-serif;
+}
+
+:lang(ko), [lang="ko"] {
+  font-family: 'Noto Sans KR', 'IBM Plex Sans', sans-serif;
+}
+
+/* ── Navbar logo size ──────────────────────────────────────── */
+nav img.h-8,
+nav img[class*="h-"],
+.navbar img,
+header nav a img,
+header a[href="/"] img {
+  height: 2.5rem !important;
+  max-height: 2.5rem !important;
+  width: auto !important;
+}/* Google Fonts: IBM Plex Sans (English) + Noto Sans KR (Korean) */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
 
 /* Override HugoBlox font CSS variables */
