@@ -54,17 +54,17 @@ main:
   # ── PUBLICATIONS ──────────────────────────────────────────────────────────
   - name: Publications
     identifier: publications
-    url: /publication/
+    url: /publications/
     weight: 40
 
   - name: Journal Papers
     parent: publications
-    url: /publication/?type=journal
+    url: /publications/
     weight: 41
 
   - name: Conference Papers
     parent: publications
-    url: /publication/?type=conference
+    url: /publications/
     weight: 42
 
   # ── NEWS ──────────────────────────────────────────────────────────────────
