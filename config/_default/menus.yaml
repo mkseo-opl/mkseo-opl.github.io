@@ -67,12 +67,6 @@ main:
     url: /people/#alumni
     weight: 44
 
-  # ── TEACHING ──────────────────────────────────────────────────────────────
-  - name: Teaching
-    identifier: teaching
-    url: /teaching/
-    weight: 50
-
   # ── NEWS ──────────────────────────────────────────────────────────────────
   - name: News
     identifier: news
