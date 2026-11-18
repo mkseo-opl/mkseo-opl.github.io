@@ -20,6 +20,28 @@ sections:
     design:
       view: date-title-summary
   - block: markdown
+    id: awards
+    content:
+      title: Awards
+      text: |
+        | Year | Award |
+        |------|-------|
+        | 2023 | Best Presentation Award – FlowMaster Korea User Conference |
+        | 2021 | Certificate of Outstanding Contribution in KPLO Program – KARI General Director |
+        | 2017 | Gold Prize – Hanwha Technology Awards (terminal-phase side-jet thruster) |
+        | 2014 | Top Award in R&D Category – Hanwha Challenge Award (active flow control system) |
+  - block: markdown
+    id: activities
+    content:
+      title: Professional Activities
+      text: |
+        | Period | Activity |
+        |--------|----------|
+        | 2025– | Reviewer, *Journal of the Korean Society for Aeronautical and Space Sciences* (한국항공우주학회지) |
+        | 2025– | Official Ambassador, QUA Science Café, Daejeon |
+        | 2025 | Planning Committee, K-Startup Rocket Demonstration Support Center (전남테크노파크) |
+        | 2016– | Editorial Board Member, *Mechanical Journal* (대한기계학회 기계저널) |
+  - block: markdown
     id: contact
     content:
       title: Contact
