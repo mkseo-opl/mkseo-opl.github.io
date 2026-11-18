@@ -1,0 +1,54 @@
+schema: hugoblox/author/v1
+slug: admin
+is_owner: true
+name:
+  display: Minkyo Seo (서민교)
+  given: Minkyo
+  family: Seo
+
+role: Assistant Professor | 조교수
+bio: |
+  Minkyo Seo (서민교) is an Assistant Professor in the Department of Mechanical Engineering at Kyungil University (경일대학교), where he leads the **Orbital Propulsion Laboratory (OPL, 궤도추진연구실)**. His research focuses on liquid rocket propulsion, satellite propulsion systems, and low-toxicity alternative propellants.
+
+  OPL was established to advance Korea's capabilities in space and defense propulsion, with a particular focus on the development and testing of liquid bipropellant and monopropellant systems.
+
+affiliations:
+  - name: Kyungil University (경일대학교)
+    url: https://www.kiu.ac.kr/
+
+links:
+  - icon: at-symbol
+    url: 'mailto:minkyoseo@kiu.ac.kr'
+    label: E-mail (KIU)
+  - icon: at-symbol
+    url: 'mailto:minkyoseo@kaist.ac.kr'
+    label: E-mail (KAIST)
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mkseo-opl/
+    label: LinkedIn
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-0019-6377
+    label: ORCID
+
+interests:
+  - Liquid Rocket Propulsion | 액체 로켓 추진
+  - Satellite Propulsion Systems | 위성 추진 시스템
+  - Low-toxicity Alternative Propellants | 저독성 대체 추진제
+  - Bipropellant Combustion (MMH/NTO) | 이원추진제 연소
+  - Defense Propulsion Programs | 방위산업 추진
+
+education:
+  - degree: PhD Aerospace Engineering
+    institution: KAIST (한국과학기술원)
+    start: '2020-03-01'
+    end: '2025-02-28'
+  - degree: MS Aerospace Engineering
+    institution: KAIST (한국과학기술원)
+    start: '2008-03-01'
+    end: '2010-02-28'
+  - degree: BE Mechanical Engineering
+    institution: Kyungpook National University (경북대학교)
+    start: '2003-03-01'
+    end: '2008-02-28'
+
+superuser: true
