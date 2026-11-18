@@ -49,7 +49,7 @@ main:
 
   - name: Prof.
     parent: members
-    url: /#about
+    url: /authors/admin/
     weight: 41
 
   - name: Graduate Students
