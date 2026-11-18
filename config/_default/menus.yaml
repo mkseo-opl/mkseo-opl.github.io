@@ -9,81 +9,81 @@ main:
     url: /
     weight: 10
 
+  # ── MEMBERS ───────────────────────────────────────────────────────────────
+  - name: Members
+    identifier: members
+    url: /people/
+    weight: 20
+
+  - name: Prof.
+    parent: members
+    url: /authors/admin/
+    weight: 21
+
+  - name: Graduate Students
+    parent: members
+    url: /people/#graduate
+    weight: 22
+
+  - name: Undergraduate Students
+    parent: members
+    url: /people/#undergraduate
+    weight: 23
+
+  - name: Alumni
+    parent: members
+    url: /people/#alumni
+    weight: 24
+
   # ── RESEARCH ──────────────────────────────────────────────────────────────
   - name: Research
     identifier: research
     url: /research/
-    weight: 20
+    weight: 30
 
   - name: Overview
     parent: research
     url: /research/
-    weight: 21
+    weight: 31
 
   - name: Projects
     parent: research
     url: /projects/
-    weight: 22
+    weight: 32
 
   # ── PUBLICATIONS ──────────────────────────────────────────────────────────
   - name: Publications
     identifier: publications
     url: /publication/
-    weight: 30
+    weight: 40
 
   - name: Journal Papers
     parent: publications
     url: /publication/?type=journal
-    weight: 31
+    weight: 41
 
   - name: Conference Papers
     parent: publications
     url: /publication/?type=conference
-    weight: 32
-
-  # ── MEMBERS ───────────────────────────────────────────────────────────────
-  - name: Members
-    identifier: members
-    url: /people/
-    weight: 40
-
-  - name: Prof.
-    parent: members
-    url: /authors/admin/
-    weight: 41
-
-  - name: Graduate Students
-    parent: members
-    url: /people/#graduate
     weight: 42
-
-  - name: Undergraduate Students
-    parent: members
-    url: /people/#undergraduate
-    weight: 43
-
-  - name: Alumni
-    parent: members
-    url: /people/#alumni
-    weight: 44
 
   # ── NEWS ──────────────────────────────────────────────────────────────────
   - name: News
     identifier: news
     url: /news/
-    weight: 60
+    weight: 50
 
   - name: Announcements
     parent: news
     url: /news/
-    weight: 61
+    weight: 51
 
   - name: Gallery
     parent: news
     url: /gallery/
-    weight: 62
+    weight: 52
 
   # ── CONTACT ───────────────────────────────────────────────────────────────
   - name: Contact
     url: /#contact
-    weight: 70
+    weight: 60
