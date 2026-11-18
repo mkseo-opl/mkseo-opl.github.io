@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Minkyo Seo (서민교)
+name: Minkyo Seo (서민교)
 
 # Full name (for SEO)
 first_name: Minkyo
