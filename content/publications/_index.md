@@ -1,16 +1,17 @@
 ---
 title: Publications
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+type: landing
+sections:
+  - block: markdown
+    id: journal
+    content:
+      title: Journal Papers
+      text: |
+        *Coming soon — this section will be updated shortly.*
+  - block: markdown
+    id: conference
+    content:
+      title: Conference Papers
+      text: |
+        *Coming soon — this section will be updated shortly.*
 ---
