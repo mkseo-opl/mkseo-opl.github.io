@@ -69,19 +69,8 @@ main:
 
   # ── NEWS ──────────────────────────────────────────────────────────────────
   - name: News
-    identifier: news
     url: /news/
     weight: 50
-
-  - name: Announcements
-    parent: news
-    url: /news/
-    weight: 51
-
-  - name: Gallery
-    parent: news
-    url: /gallery/
-    weight: 52
 
   # ── CONTACT ───────────────────────────────────────────────────────────────
   - name: Contact
