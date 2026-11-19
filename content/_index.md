@@ -19,7 +19,13 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        image:
+          filename: hero-bg.jpg
+          filters:
+            brightness: 0.4
+          parallax: true
+          position: center
+          size: cover
   - block: markdown
     content:
       title: About OPL
