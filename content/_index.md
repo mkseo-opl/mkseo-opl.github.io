@@ -55,7 +55,8 @@ sections:
 
         {{< googlemaps >}}
 
-        📧 [minkyoseo@kiu.ac.kr](mailto:minkyoseo@kiu.ac.kr)
+        📧 [minkyoseo@kiu.ac.kr](mailto:minkyoseo@kiu.ac.kr)  
+        📧 [minkyoseo@kaist.ac.kr](mailto:minkyoseo@kaist.ac.kr)
 
         🔗 [LinkedIn](https://www.linkedin.com/in/mkseo-opl/)  
         🆔 [ORCID: 0009-0009-0019-6377](https://orcid.org/0009-0009-0019-6377)
