@@ -2,6 +2,12 @@
 title: Members
 type: landing
 sections:
+  - block: people
+    id: faculty
+    content:
+      title: Principal Investigator
+      user_groups:
+        - Principal Investigator
   - block: markdown
     id: graduate
     content:
