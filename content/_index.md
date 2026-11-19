@@ -8,8 +8,8 @@ sections:
         Orbital Propulsion Laboratory
       text: |
         궤도추진연구실 | Kyungil University
-        
-        We develop next-generation liquid rocket propulsion systems for space exploration and national defense — from low-toxicity green propellants to lunar lander propulsion.
+
+        We develop next-generation orbital propulsion systems for space exploration and national defense — from conventional bipropellants to low-toxicity green alternatives.
       cta:
         label: Research
         url: /research/
@@ -48,7 +48,11 @@ sections:
         Rm. 311, Bldg. 6, Kyungil University  
         Hayang-eup, Gyeongsan-si, Gyeongbuk 38428, Korea
 
-        📧 minkyoseo@kiu.ac.kr
+        {{< googlemaps >}}
 
-        🔗 LinkedIn / ORCID: 0009-0009-0019-6377
+        📧 [minkyoseo@kiu.ac.kr](mailto:minkyoseo@kiu.ac.kr)  
+        📧 [minkyoseo@kaist.ac.kr](mailto:minkyoseo@kaist.ac.kr)
+
+        🔗 [LinkedIn](https://www.linkedin.com/in/mkseo-opl/)  
+        🆔 [ORCID: 0009-0009-0019-6377](https://orcid.org/0009-0009-0019-6377)
 ---
