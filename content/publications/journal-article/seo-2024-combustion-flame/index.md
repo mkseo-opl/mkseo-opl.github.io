@@ -12,8 +12,8 @@ doi: '10.1016/j.combustflame.2024.113719'
 
 publication_types: ['article-journal']
 
-publication: '*Combustion and Flame*, Vol. 270, 113719'
-publication_short: '*Combust. Flame*'
+publication: 'Combustion and Flame, Vol. 270, 113719'
+publication_short: 'Combust. Flame'
 
 abstract: >
   This study investigates the performance improvement of triglyme-based low-toxicity hypergolic fuels
@@ -31,17 +31,13 @@ tags:
 
 featured: true
 
-links:
-  - name: DOI
-    url: https://doi.org/10.1016/j.combustflame.2024.113719
-
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1016/j.combustflame.2024.113719'
 url_video: ''
 ---
 
