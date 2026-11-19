@@ -2,12 +2,16 @@
 title: Members
 type: landing
 sections:
-  - block: people
+  - block: markdown
     id: faculty
     content:
       title: Principal Investigator
-      user_groups:
-        - Principal Investigator
+      text: |
+        **Minkyo Seo (서민교)**  
+        Assistant Professor, Department of Mechanical Engineering  
+        Kyungil University (경일대학교)  
+        📧 [minkyoseo@kiu.kr](mailto:minkyoseo@kiu.kr)  
+        [→ Full Profile](/people/professor/)
   - block: markdown
     id: graduate
     content:
