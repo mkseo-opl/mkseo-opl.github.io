@@ -30,6 +30,17 @@ tags:
 
 featured: true
 
+links: []
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 hugoblox:
   ids:
     doi: '10.1016/j.combustflame.2024.113719'
