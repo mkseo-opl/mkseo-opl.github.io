@@ -7,7 +7,20 @@ sections:
       title: |
         Orbital Propulsion Laboratory
       text: |
-        궤도추진연구실 | We develop next-generation orbital propulsion systems for space exploration and national defense - from conventional bipropellants to low-toxicity green alternatives.
+        ê¶¤ëì¶ì§ì°êµ¬ì¤ | We develop next-generation orbital propulsion systems for space exploration and national defense - from conventional bipropellants to low-toxicity green alternatives.
+      cta:
+        label: Research
+        url: /research/
+      cta_alt:
+title:
+type: landing
+sections:
+  - block: hero
+    content:
+      title: |
+        Orbital Propulsion Laboratory
+      text: |
+        ê¶¤ëì¶ì§ì°êµ¬ì¤ | We develop next-generation orbital propulsion systems for space exploration and national defense - from conventional bipropellants to low-toxicity green alternatives.
       cta:
         label: Research
         url: /research/
@@ -28,9 +41,9 @@ sections:
     content:
       title: About OPL
       text: |
-        The **Orbital Propulsion Laboratory (OPL, 궤도추진연구실)** at [Kyungil University](https://www.kiu.ac.kr/) focuses on the development and testing of liquid bipropellant and monopropellant systems for space and defense applications.
+        The **Orbital Propulsion Laboratory (OPL, ê¶¤ëì¶ì§ì°êµ¬ì¤)** at [Kyungil University](https://www.kiu.ac.kr/) focuses on the development and testing of liquid bipropellant and monopropellant systems for space and defense applications.
 
-        Our research spans **green hypergolic propellants**, **Mars EDL propulsion**, **lunar lander systems**, and **MMH/NTO bipropellant thrusters** — building on over a decade of hands-on heritage from Korea's first lunar orbiter (Danuri) and national satellite programs.
+        Our research spans **green hypergolic propellants**, **Mars EDL propulsion**, **lunar lander systems**, and **MMH/NTO bipropellant thrusters** â building on over a decade of hands-on heritage from Korea's first lunar orbiter (Danuri) and national satellite programs.
   - block: collection
     content:
       title: Latest News
@@ -46,16 +59,16 @@ sections:
       title: Contact
       text: |
         **Orbital Propulsion Laboratory (OPL)**  
-        궤도추진연구실
+        ê¶¤ëì¶ì§ì°êµ¬ì¤
 
-        📍 경상북도 경산시 하양읍 가마실길 50, 6호관 311호  
+        ð ê²½ìë¶ë ê²½ì°ì íìì ê°ë§ì¤ê¸¸ 50, 6í¸ê´ 311í¸  
         Bldg. 6, Rm. 311, 50 Gamasil-gil, Hayang-eup, Gyeongsan-si, Gyeongsangbuk-do, 38428, Republic of Korea
 
         {{< googlemaps >}}
 
-        📧 [minkyoseo@kiu.ac.kr](mailto:minkyoseo@kiu.ac.kr)  
-        📧 [minkyoseo@kaist.ac.kr](mailto:minkyoseo@kaist.ac.kr)
+        ð§ [minkyoseo@kiu.kr](mailto:minkyoseo@kiu.kr)  
+        ð§ [minkyoseo@kaist.ac.kr](mailto:minkyoseo@kaist.ac.kr)
 
-        🔗 [LinkedIn](https://www.linkedin.com/in/mkseo-opl/)  
-        🆔 [ORCID: 0009-0009-0019-6377](https://orcid.org/0009-0009-0019-6377)
+        ð [LinkedIn](https://www.linkedin.com/in/mkseo-opl/)  
+        ð [ORCID: 0009-0009-0019-6377](https://orcid.org/0009-0009-0019-6377)
 ---
