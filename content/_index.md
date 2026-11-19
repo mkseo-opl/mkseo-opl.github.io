@@ -7,9 +7,7 @@ sections:
       title: |
         Orbital Propulsion Laboratory
       text: |
-        궤도추진연구실 | Kyungil University
-
-        We develop next-generation orbital propulsion systems for space exploration and national defense — from conventional bipropellants to low-toxicity green alternatives.
+        궤도추진연구실 | We develop next-generation orbital propulsion systems for space exploration and national defense - from conventional bipropellants to low-toxicity green alternatives.
       cta:
         label: Research
         url: /research/
