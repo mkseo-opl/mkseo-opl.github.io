@@ -43,12 +43,12 @@ main:
 
   - name: Overview
     parent: research
-    url: /research/
+    url: /research/#overview
     weight: 31
 
   - name: Projects
     parent: research
-    url: /projects/
+    url: /research/#projects
     weight: 32
 
   # ── PUBLICATIONS ──────────────────────────────────────────────────────────
@@ -59,12 +59,12 @@ main:
 
   - name: Journal Papers
     parent: publications
-    url: /publications/
+    url: /publications/#journal
     weight: 41
 
   - name: Conference Papers
     parent: publications
-    url: /publications/
+    url: /publications/#conference
     weight: 42
 
   # ── NEWS ──────────────────────────────────────────────────────────────────
