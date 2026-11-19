@@ -2,7 +2,7 @@ backend:
   name: github
   repo: mkseo-opl/mkseo-opl.github.io
   branch: main
-    base_url: https://sveltia-cms-auth.minkyoseo.workers.dev
+  base_url: https://sveltia-cms-auth.minkyoseo.workers.dev
 
 media_folder: static/uploads
 public_folder: /uploads
