@@ -1,0 +1,166 @@
+backend:
+  name: github
+  repo: mkseo-opl/mkseo-opl.github.io
+  branch: main
+  base_url: https://sveltia-cms-auth.mkseo-opl.workers.dev
+
+media_folder: static/uploads
+public_folder: /uploads
+
+locale: ko
+
+collections:
+  - name: journal_papers
+    label: "저널 논문 (Journal Papers)"
+    label_singular: "저널 논문"
+    folder: content/publication/journal
+    create: true
+    slug: "{{year}}-{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - label: "제목 (Title)"
+        name: title
+        widget: string
+      - label: "게재 연도"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        default: ""
+      - label: "저자 (Authors)"
+        name: authors
+        widget: list
+        default: ["admin"]
+      - label: "게재지 (Journal Name)"
+        name: publication
+        widget: string
+      - label: "게재지 약칭"
+        name: publication_short
+        widget: string
+        required: false
+      - label: "유형"
+        name: publication_types
+        widget: hidden
+        default: ["article-journal"]
+      - label: "초록 (Abstract)"
+        name: abstract
+        widget: text
+        required: false
+      - label: "DOI"
+        name: doi
+        widget: string
+        required: false
+      - label: "URL"
+        name: url_pdf
+        widget: string
+        required: false
+      - label: "태그"
+        name: tags
+        widget: list
+        required: false
+      - label: "특집/강조"
+        name: featured
+        widget: boolean
+        default: false
+      - label: "본문"
+        name: body
+        widget: markdown
+        required: false
+
+  - name: conference_papers
+    label: "학회 논문 (Conference Papers)"
+    label_singular: "학회 논문"
+    folder: content/publication/conference
+    create: true
+    slug: "{{year}}-{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - label: "제목 (Title)"
+        name: title
+        widget: string
+      - label: "발표 연도"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        default: ""
+      - label: "저자 (Authors)"
+        name: authors
+        widget: list
+        default: ["admin"]
+      - label: "학회명 (Conference Name)"
+        name: publication
+        widget: string
+      - label: "학회 약칭"
+        name: publication_short
+        widget: string
+        required: false
+      - label: "유형"
+        name: publication_types
+        widget: hidden
+        default: ["paper-conference"]
+      - label: "초록 (Abstract)"
+        name: abstract
+        widget: text
+        required: false
+      - label: "URL"
+        name: url_pdf
+        widget: string
+        required: false
+      - label: "태그"
+        name: tags
+        widget: list
+        required: false
+      - label: "특집/강조"
+        name: featured
+        widget: boolean
+        default: false
+      - label: "본문"
+        name: body
+        widget: markdown
+        required: false
+
+  - name: news
+    label: "뉴스 & 공지 (News)"
+    label_singular: "뉴스"
+    folder: content/post
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "featured"
+    public_folder: "featured"
+    fields:
+      - label: "제목"
+        name: title
+        widget: string
+      - label: "날짜"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: "요약 (Summary)"
+        name: summary
+        widget: text
+        required: false
+      - label: "저자"
+        name: authors
+        widget: list
+        default: ["admin"]
+      - label: "태그"
+        name: tags
+        widget: list
+        required: false
+      - label: "본문"
+        name: body
+        widget: markdown
+      - label: "초안 (Draft)"
+        name: draft
+        widget: boolean
+        default: false
