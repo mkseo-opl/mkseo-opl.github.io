@@ -15,4 +15,14 @@ sections:
         📧 [minkyoseo@kiu.ac.kr](mailto:minkyoseo@kiu.ac.kr)
 
         [→ Full Profile & CV](/people/professor/)
+  - block: markdown
+    content:
+      title: Graduate Students
+      text: |
+        *Coming soon — this section will be updated shortly.*
+  - block: markdown
+    content:
+      title: Undergraduate Researchers
+      text: |
+        *Coming soon — this section will be updated shortly.*
 ---
