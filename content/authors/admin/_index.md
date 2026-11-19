@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Minkyo Seo (서민교)
-name: Minkyo Seo (서민교)
 
 # Full name (for SEO)
 first_name: Minkyo
@@ -35,26 +34,92 @@ profiles:
 
 interests:
   - Liquid Rocket Propulsion | 액체 로켓 추진
-  - Satellite Propulsion Systems | 위성 추진 시스템
-  - Low-toxicity Alternative Propellants | 저독성 대체 추진제
+  - Satellite & Spacecraft Propulsion | 위성·우주선 추진
+  - Hypergolic Propellants (Low-toxicity) | 하이퍼골릭 추진제 (저독성)
+  - Orbital Transfer Vehicle / Lunar Lander | 궤도 전이체 / 달 착륙선
 
 education:
-  - area: PhD Aerospace Engineering
-    institution: KAIST (Korea Advanced Institute of Science and Technology)
+  - area: PhD Aerospace Engineering | 항공우주공학 박사
+    institution: KAIST (한국과학기술원)
+    date_start: '2019-03-01'
     date_end: '2025-02-28'
-    date_start: '2020-03-01'
-  - area: MS Aerospace Engineering
-    institution: KAIST
-    date_end: '2010-02-28'
-    date_start: '2008-03-01'
-  - area: BE Mechanical Engineering
-    institution: Kyungpook National University (경북대학교)
-    date_end: '2008-02-28'
-    date_start: '2003-03-01'
+    summary: |
+      Rocket Propulsion Laboratory. Advisor: Prof. Sejin Kwon (권세진 교수).
+  - area: MSc Aerospace & Mechanical Engineering | 항공기계공학 석사
+    institution: Korea Aerospace University (한국항공대학교)
+    date_start: '2011-03-01'
+    date_end: '2013-02-28'
+    summary: |
+      Propulsion and Combustion Control Laboratory. Advisor: Prof. Jaye Koo (구자예 교수).
+  - area: BSc Aerospace & Mechanical Engineering | 항공기계공학 학사
+    institution: Korea Aerospace University (한국항공대학교)
+    date_start: '2007-03-01'
+    date_end: '2011-02-28'
+
+work:
+  - position: Assistant Professor | 조교수
+    company_name: Kyungil University (경일대학교)
+    company_url: 'https://www.kiu.ac.kr/'
+    date_start: '2026-03-01'
+    date_end: ''
+    summary: |
+      Department of Mechanical and Electrical Engineering / Department of Defense Industry Systems (concurrent).
+      기계전기공학부 / 방위산업시스템학과 (겸임)
+  - position: Senior Researcher | 수석연구원
+    company_name: Hanwha Aerospace (한화에어로스페이스)
+    company_url: 'https://www.hanwhaaerospace.com/'
+    date_start: '2017-07-01'
+    date_end: '2026-02-28'
+    summary: |
+      Space Business Division — Engine Development Team & Space Business Team 2 (concurrent).
+      우주사업부 엔진개발팀 · 우주사업2팀 (겸직)
+  - position: Senior Researcher | 수석연구원
+    company_name: Hanwha Defense (한화디펜스)
+    company_url: ''
+    date_start: '2013-02-01'
+    date_end: '2017-06-30'
+    summary: |
+      Defense Division — Core Technology Team 3.
+      방산부문 핵심기술3팀
+
+# Skills
+skills:
+  - name: Research Areas
+    items:
+      - name: Liquid Rocket Propulsion
+        percent: 100
+      - name: Satellite Propulsion Systems
+        percent: 90
+      - name: Hypergolic Propellants
+        percent: 90
+      - name: Spacecraft Propulsion
+        percent: 85
+
+# Awards / External Activities
+awards:
+  - title: Special Award, 1st Space Aviation Industry & Policy Paper Competition | 제1회 우주항공 산업 및 정책 논문 경진대회 우주항공청장 특별상
+    awarder: Korea AeroSpace Administration (KASA) / Korean Society for Aeronautical & Space Sciences | 우주항공청 (한국항공우주학회 주관)
+    date: '2026-01-01'
+  - title: Committee Member — Space Aviation Research Facilities & Equipment Review | 우주항공분야 연구시설·장비 심의위원
+    awarder: Korea AeroSpace Administration (KASA) | 우주항공청
+    date: '2026-11-19'
+  - title: Committee Member — Defense Technology Classification List Protection Level Evaluation (Rocket Propulsion) | 국방기술통제목록 보호등급 평가위원
+    awarder: Defense Agency for Technology and Quality (DATQ) | 국방기술품질원
+    date: '2026-01-01'
+  - title: Committee Member — Space Aviation Technology Competitiveness Diagnosis Model | 우주항공 기술경쟁력 진단모델 개발 분과위원
+    awarder: Korea AeroSpace Administration (KASA) | 우주항공청
+    date: '2026-01-01'
+  - title: Planning Committee — K-Startup Rocket Demonstration Support Center | K-스타트업로켓 실증 지원센터 구축사업 기획위원
+    awarder: Jeonnam Technopark | 전남테크노파크
+    date: '2024-01-01'
 ---
 
-궤도추진연구실(OPL)은 **경일대학교 기계공학과**에 소속된 우주추진 전문 연구실입니다. 액체 로켓 추진제, 위성 추진 시스템, 그리고 저독성 대체 추진제 개발을 핵심 연구 주제로 삼고 있습니다. 한화에어로스페이스 우주추진 부문에서 13년간 쌓은 실무 경험과 KAIST 박사 과정을 통해 구축한 연구 역량을 바탕으로, 이론과 현장을 잇는 연구를 지향합니다. 우주 접근성 확대에 기여할 차세대 추진 기술을 연구하며, 국내외 기관 및 산업체와의 협력을 환영합니다.
+Minkyo Seo (서민교) is an Assistant Professor at **Kyungil University (경일대학교)**, where he leads the **Orbital Propulsion Laboratory (OPL / 궤도추진연구실)**. His research focuses on liquid rocket propulsion, satellite and spacecraft propulsion systems, and low-toxicity hypergolic bipropellants for space applications including orbital transfer vehicles (OTV) and lunar landers.
+
+Before joining academia, he spent 13 years at **Hanwha Aerospace** as a Senior Researcher in the Space Business Division, contributing to Korea's KSLV-II engine development and building Korea's first MMH/NTO combustion test infrastructure. He received his PhD in Aerospace Engineering from **KAIST** in 2025.
 
 ---
 
-The Orbital Propulsion Laboratory (OPL) is a space propulsion research group in the **Department of Mechanical Engineering at Kyungil University**, Korea. Our research focuses on liquid rocket propellants, satellite propulsion systems, and the development of low-toxicity alternative propellants. Grounded in 13 years of hands-on R&D experience at Hanwha Aerospace's space propulsion division and rigorous academic training at KAIST, OPL bridges engineering practice and fundamental research. We are committed to advancing next-generation propulsion technologies that expand access to space, and we welcome collaboration with domestic and international institutions and industry partners.
+서민교 교수는 **경일대학교 기계전기공학부**에 재직 중이며, **궤도추진연구실(OPL, Orbital Propulsion Laboratory)**을 이끌고 있습니다. 연구 분야는 액체 로켓 추진, 위성·우주선 추진 시스템, 그리고 궤도 전이체(OTV) 및 달 착륙선을 위한 저독성 하이퍼골릭 이원추진제입니다.
+
+학계 합류 전 **한화에어로스페이스** 우주사업부에서 13년간 수석연구원으로 재직하며 한국형발사체(KSLV-II) 엔진 개발에 기여하고, 국내 최초 MMH/NTO 연소 시험 인프라를 구축했습니다. 2025년 **KAIST**에서 항공우주공학 박사학위를 취득했습니다.
