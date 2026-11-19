@@ -48,8 +48,8 @@ sections:
         **Orbital Propulsion Laboratory (OPL)**  
         궤도추진연구실
 
-        📍 경상북도 경산시 하양읍 가마실길 50  
-        50, Gamasil-gil, Hayang-eup, Gyeongsan-si, Gyeongsangbuk-do, 38428, Republic of Korea
+        📍 경상북도 경산시 하양읍 가마실길 50, 6호관 311호  
+        Bldg. 6, Rm. 311, 50 Gamasil-gil, Hayang-eup, Gyeongsan-si, Gyeongsangbuk-do, 38428, Republic of Korea
 
         {{< googlemaps >}}
 
