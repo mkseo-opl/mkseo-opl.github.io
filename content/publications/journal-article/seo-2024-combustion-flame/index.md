@@ -8,7 +8,6 @@ authors:
   - Sejin Kwon
 
 date: '2024-01-01'
-doi: '10.1016/j.combustflame.2024.113719'
 
 publication_types: ['article-journal']
 
@@ -31,14 +30,9 @@ tags:
 
 featured: true
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://doi.org/10.1016/j.combustflame.2024.113719'
-url_video: ''
+hugoblox:
+  ids:
+    doi: '10.1016/j.combustflame.2024.113719'
 ---
 
 **Journal:** Combustion and Flame (CiteScore: 9.5, Impact Factor: 5.8)
