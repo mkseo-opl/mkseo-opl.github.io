@@ -1,37 +1,35 @@
 ---
-title: Minkyo Seo (서민교)
+title: Minkyo Seo
 type: page
 ---
 
-## Professor | 지도교수
-
 **Minkyo Seo (서민교)**  
 Assistant Professor, Department of Mechanical Engineering  
-조교수, 기계공학과 (방위산업시스템학과 겸임)  
-Kyungil University (경일대학교)
+Kyungil University, Gyeongsan, South Korea  
+*Concurrent appointment: Department of Defense Industry Systems*
 
-📧 [minkyoseo@kiu.kr](mailto:minkyoseo@kiu.kr)  
+📧 [minkyoseo@kiu.kr](mailto:minkyoseo@kiu.kr) · [minkyoseo@kaist.ac.kr](mailto:minkyoseo@kaist.ac.kr)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mkseo-opl/) · [ORCID](https://orcid.org/0009-0009-0019-6377)
 
 ---
 
-## Education | 학력
+## Education
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **PhD** Aerospace Engineering | KAIST (한국과학기술원) | 2020. 03 – 2025. 02 |
-| **MS** Aerospace & Mechanical Engineering | Korea Aerospace University (한국항공대학교) | 2011. 03 – 2013. 02 |
-| **BS** Aerospace & Mechanical Engineering | Korea Aerospace University (한국항공대학교) | 2007. 03 – 2011. 02 |
+| **PhD** Aerospace Engineering | KAIST | Mar 2020 – Feb 2025 |
+| **MS** Aerospace & Mechanical Engineering | Korea Aerospace University | Mar 2011 – Feb 2013 |
+| **BS** Aerospace & Mechanical Engineering | Korea Aerospace University | Mar 2007 – Feb 2011 |
 
 - **PhD Thesis:** Development of Triglyme-based Low-toxicity Hypergolic Fuel for Space Propulsion
 - **MS Thesis:** Experimental Study on Pressure Drop Characteristics of Compressible Fluids through Porous Media
 
 ---
 
-## Work Experience | 경력
+## Work Experience
 
-### Hanwha Aerospace (한화에어로스페이스) — Senior Researcher | 책임연구원
-*2013 – 2025 (약 13년)*
+### Hanwha Aerospace — Senior Researcher
+*2013 – 2025 (13 years)*
 
 | Period | Project |
 |--------|---------|
@@ -43,7 +41,7 @@ Kyungil University (경일대학교)
 | 2015 – 2022 | High-response solenoid valve development (classified, defense) |
 | 2013 – 2017 | M-SAM Block II terminal-phase side-jet thruster |
 
-### International Cooperation | 국제 협력
+### International Cooperation
 
 | Year | Partner | Activity |
 |------|---------|----------|
@@ -54,29 +52,29 @@ Kyungil University (경일대학교)
 
 ---
 
-## Research Interests | 연구 분야
+## Research Interests
 
-- Liquid rocket propulsion | 액체 로켓 추진
-- Satellite & in-space propulsion systems | 위성 추진시스템
-- Low-toxicity hypergolic propellants (triglyme/HTP) | 저독성 접촉점화 추진제
-- Bipropellant combustion — MMH/NTO, MON | 이원추진제 연소
-- Mars EDL & lunar lander propulsion | 화성 EDL / 달 착륙선 추진
-- Defense propulsion programs | 방위산업 추진시스템
-
----
-
-## Current Research Projects | 현재 연구 과제
-
-| Period | Project | Note |
-|--------|---------|------|
-| 2025 – | Mars atmospheric Entry-Descent-Landing (EDL) core technology | 주관: 인하대학교 |
-| 2025 – | Low-toxicity hypergolic propellant for space transfer vehicle | 수행: 한국항공대학교 |
-| 2025 | Lunar lander propulsion system preliminary research | 발주: 항공우주연구원 |
-| 2024 – 2025 | Space transfer vehicle mission planning study | 주관: 서울대학교 |
+- Liquid rocket propulsion systems
+- Satellite & in-space propulsion
+- Low-toxicity hypergolic propellants (triglyme/HTP)
+- Bipropellant combustion — MMH/NTO, MON
+- Mars EDL & lunar lander propulsion
+- Defense propulsion programs
 
 ---
 
-## Awards | 수상 내역
+## Current Research Projects
+
+| Period | Project | Lead Institution |
+|--------|---------|-----------------|
+| 2025 – | Mars atmospheric Entry-Descent-Landing (EDL) core technology | Inha University |
+| 2025 – | Low-toxicity hypergolic propellant for space transfer vehicle | Korea Aerospace University |
+| 2025 | Lunar lander propulsion system preliminary research | KARI |
+| 2024 – 2025 | Space transfer vehicle mission planning study | Seoul National University |
+
+---
+
+## Awards
 
 | Year | Award |
 |------|-------|
@@ -87,18 +85,18 @@ Kyungil University (경일대학교)
 
 ---
 
-## Professional Activities | 대외 활동
+## Professional Activities
 
 | Period | Activity |
 |--------|----------|
-| 2025 – | Reviewer, *Journal of the Korean Society for Aeronautical and Space Sciences* (한국항공우주학회지) |
+| 2025 – | Reviewer, *Journal of the Korean Society for Aeronautical and Space Sciences* |
 | 2025 – | Official Ambassador, QUA Science Café, Daejeon |
-| 2025 | Planning Committee, K-Startup Rocket Demonstration Support Center (전남테크노파크) |
-| 2016 – | Editorial Board Member, *Mechanical Journal*, Korean Society of Mechanical Engineers (대한기계학회 기계저널) |
+| 2025 | Planning Committee, K-Startup Rocket Demonstration Support Center |
+| 2016 – | Editorial Board Member, *Mechanical Journal*, Korean Society of Mechanical Engineers |
 
 ---
 
-## Publications | 주요 논문
+## Publications
 
 ### SCI Journal
 
@@ -107,16 +105,16 @@ Kyungil University (경일대학교)
 
 ### Domestic Journal (KCI)
 
-- 서민교, 김도헌, 서찬우, 이승윤, 장석필, 구자예. (2013). 다공성재를 통과하는 압축성 유체의 압력강하에 관한 실험적 연구. *대한기계학회 논문집 B*, 37(8), 759–765.
-- 고준복, 서민교, 이경호, 백기봉, 조승환. (2014). 측추력기 Shutter의 단방향 유체-구조 연성해석. *대한기계학회 논문집 A*, 38(12), 1359–1365.
+- Seo, M., Kim, D., Seo, C., Lee, S., Jang, S., Koo, J. (2013). Experimental Study on Pressure Drop Characteristics of Compressible Fluids through Porous Media. *Transactions of the KSME B*, 37(8), 759–765.
+- Ko, J., Seo, M., Lee, K., Baek, K., Jo, S. (2014). One-way Fluid-Structure Interaction Analysis of Side-Thruster Shutter. *Transactions of the KSME A*, 38(12), 1359–1365.
 
 ---
 
-## Outreach & Mentoring | 멘토링 및 강연
+## Outreach & Mentoring
 
 | Year | Activity |
 |------|----------|
-| 2025–2026 | Guest Lecturer, "진로오딧세이" – Sejong University |
+| 2025–2026 | Guest Lecturer, "Career Odyssey" program – Sejong University |
 | 2024 | Science mentor, Daejeon Gifted Festival "My Scientist" program |
 | 2023 | Guest Lecture, Bugil Girls' High School – *"Fly Me to the Moon"* |
 | 2022 | Guest Lecture, Bugil High School – *"Space is My Office"* |
