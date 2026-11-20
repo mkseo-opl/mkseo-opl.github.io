@@ -17,7 +17,7 @@ main:
 
   - name: Prof.
     parent: members
-    url: /authors/admin/
+    url: /people/#faculty
     weight: 21
 
   - name: Graduate Students
@@ -68,11 +68,3 @@ main:
     weight: 42
 
   # ── NEWS ──────────────────────────────────────────────────────────────────
-  - name: News
-    url: /news/
-    weight: 50
-
-  # ── CONTACT ───────────────────────────────────────────────────────────────
-  - name: Contact
-    url: /#contact
-    weight: 60
