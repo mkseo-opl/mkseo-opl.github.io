@@ -5,7 +5,7 @@ sections:
   - block: markdown
     id: faculty
     content:
-            title: Prof.
+      title: Prof.
       text: |
         <img src="/authors/admin/avatar.png" alt="Minkyo Seo" style="width:160px;border-radius:8px;">
 
