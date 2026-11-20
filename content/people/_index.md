@@ -7,7 +7,7 @@ sections:
     content:
       title: Principal Investigator
       text: |
-        ![Minkyo Seo](avatar.png)
+        ![Minkyo Seo](/authors/admin/avatar.png)
 
         **Minkyo Seo (서민교)**  
         Assistant Professor, Department of Mechanical Engineering  
