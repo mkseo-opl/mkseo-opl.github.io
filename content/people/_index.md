@@ -12,7 +12,7 @@ sections:
           <div>
             <h3 style="margin:0 0 0.4rem 0;font-size:1.05rem;">서민교 (Minkyo Seo)</h3>
             <p style="margin:0 0 0.2rem 0;font-size:0.875rem;">조교수, 기계공학과 · 방위산업시스템학과(겸임)<br>경일대학교 (Kyungil University)</p>
-            <p style="margin:0 0 0.2rem 0;font-size:0.875rem;">📧 <a href="mailto:minkyoseo@kiu.ac.kr">minkyoseo@kiu.ac.kr</a></p>
+            <p style="margin:0 0 0.2rem 0;font-size:0.875rem;">📧 <a href="mailto:minkyoseo@kiu.kr">minkyoseo@kiu.kr</a> · <a href="mailto:minkyoseo@kaist.ac.kr">minkyoseo@kaist.ac.kr</a></p>
             <p style="margin:0.6rem 0 0 0;font-size:0.875rem;"><strong>연구분야:</strong> 액체/고체 추진 시스템, 위성 추진체, 국방 추진 시스템</p>
           </div>
         </div>
